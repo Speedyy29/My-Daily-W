@@ -1,4 +1,4 @@
-# Habit Tracker App
+# My Daily W 🏆 - Habit Tracker App
 
 A modern habit tracking application built with React, TypeScript, and Tailwind CSS.
 
@@ -76,4 +76,4 @@ Preview the production build locally.
 
 ## Learn More
 
-This project was bootstrapped with Vite and uses modern React development practices.
+This project was created by Utkarsh and uses modern React development practices with Vite as the build tool.
